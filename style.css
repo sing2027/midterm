@@ -1,0 +1,45 @@
+
+.menu{
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+}
+.menu a{
+    background-color: bisque;
+    font-size: 30px;
+    color: black;
+    padding: 35px 88px;
+    text-decoration: none;
+    top: 10px;
+}
+  h1{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    width: 100%;
+    background-color:rgba(0, 35, 26, 0.962);
+}
+.box{
+    width: 768px;
+    margin: 30px auto;
+    position: relative;
+    font-size: 36px;
+    color: white;
+    background-color: rgb(19, 45, 44);
+    border-color: darkgray;
+}
+.box{
+    position: relative;
+}
+article img{
+    max-width: 400px;
+    float: left;
+}
+ol{
+    list-style: none;
+    border:2px solid gray ;
+    padding: 10px 30px;
+}
+body{
+    background-color: rgb(14, 29, 30);
+}
